@@ -1,7 +1,8 @@
-# Lab 03 from SP 2022 copy-pasted below with a couple of edits:
-
-# Lab Assignment 03, Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15933445), Jan. 31 at 11:59pm
+# Lab Assignment for Week 03
 ## Simulation-based distribution of the sample median
+## Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15933445) on Wed., Jan. 31 at 11:59pm
+
+## Version from SP 2022 copy-pasted below with a couple of edits:
 
 The main objective of today's lab is to duplicate some of the sample mean analysis you did on the [recent homework](URL), but for the sample median.
 
