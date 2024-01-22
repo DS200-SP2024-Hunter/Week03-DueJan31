@@ -2,9 +2,7 @@
 ## Simulation-based distribution of the sample median
 ## Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15933445) on Wed., Jan. 31 at 11:59pm
 
-## Version from SP 2022 copy-pasted below with a couple of edits:
-
-The main objective of today's lab is to duplicate some of the sample mean analysis you did on the [recent homework](URL), but for the sample median.
+The main objective of today's lab is to duplicate some of the sample mean analysis you did on the [recent homework](https://psu.instructure.com/courses/2306358/quizzes/5001947), but for the sample median.
 
 **A quick note on the big picture here:**  Analyzing the distribution of the sample median is way too difficult to be part of a typical introductory statistics course.  But because we can carry out part of this analysis using simulation, it's a great thing to do in a data science course.  This is a perfect example of the first course goal from the syllabus:  "...explore interconnections between computing and statistical reasoning..."
 
