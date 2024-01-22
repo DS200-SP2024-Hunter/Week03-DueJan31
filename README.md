@@ -8,7 +8,7 @@ The main objective of today's lab is to duplicate some of the sample mean analys
 
 The code will be based on Sections 10.2 and 10.3 of the textbook, which deals with a 13,825-row dataset of United Airlines flights.  Thus, I recommend starting with the code (i.e., the Jupyter Notebook) from Section 10.2 or 10.3, then copy-and-pasting code from the other section as needed.  To do this, follow steps 1 through 6 from [Lab 01](https://github.com/DS200-SP2024-Hunter/Week01-DueJan17) but in step 6 scroll to, then select, the notebook labeled "chapters/10/2/Sampling_from_a_Population.ipynb" or "chapters/10/3/Empirical_Distribution_of_a_Statistic.ipynb".
 
-To successfully run either of the notebooks above, you'll need to change the value of the `path_data` object in the first code block; otherwise, the dataset will not be found by your colab environment.  You can do this by replacing the existing line defining `path_data` by this line:  `path_data = 'https://github.com/data-8/textbook/tree/main/assets/data'`
+To successfully run either of the notebooks above, you'll need to change the value of the `path_data` object in the first code block; otherwise, the dataset will not be found by your colab environment.  You can do this by replacing the existing line defining `path_data` by this line:  `path_data = 'https://github.com/data-8/textbook/tree/main/assets/data/'`
 
 Remember that you can execute the code inside any python-code window by typing "shift-Return" inside that window.   Additionally, you can add a box for code or a box for text using the "+ Code" and "+ Text" buttons near the top left.  If you use Section 10.2 or 10.3 as the basis for your work, please try to delete irrelevant text and code boxes before you turn in your lab.
 
