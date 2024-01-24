@@ -4,6 +4,8 @@
 
 The main objective of today's lab is to duplicate some of the sample mean analysis you did on the [recent homework](https://psu.instructure.com/courses/2306358/quizzes/5001947), but for the sample median.
 
+The step-by-step approach to this lab that does not rely on the datascience package is [here](https://github.com/DS200-SP2024-Hunter/Week03-DueJan31/blob/main/Lab03SupplementaryNotebook.ipynb).
+
 **A quick note on the big picture here:**  Analyzing the distribution of the sample median is way too difficult to be part of a typical introductory statistics course.  But because we can carry out part of this analysis using simulation, it's a great thing to do in a data science course. 
 
 The code will be based on Sections 10.2 and 10.3 of the textbook, which deals with a 13,825-row dataset of United Airlines flights.  Thus, I recommend starting with the code (i.e., the Jupyter Notebook) from Section 10.2 or 10.3, then copy-and-pasting code from the other section as needed.  To do this, follow steps 1 through 6 from [Lab 01](https://github.com/DS200-SP2024-Hunter/Week01-DueJan17) but in step 6 scroll to, then select, the notebook labeled "chapters/10/2/Sampling_from_a_Population.ipynb" or "chapters/10/3/Empirical_Distribution_of_a_Statistic.ipynb".
